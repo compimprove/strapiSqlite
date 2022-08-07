@@ -12,7 +12,7 @@ variables:
   azureSubscription: '6b9af623-9475-4bee-ad92-1ad4cb42df26'
 
   # Web app name
-  webAppName: 'strapiAppService'
+  webAppName: 'strapiAppService2'
 
   # Environment name
   environmentName: 'strapiAppService'
